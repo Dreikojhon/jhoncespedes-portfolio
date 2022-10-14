@@ -7,7 +7,7 @@
 
     <form action="https://formcarry.com/s/{{ $page->services->formcarry }}" method="post">
         <div>
-            <label for="sender">Name</label><br>
+            <label for="sender">Nombre o Titular</label><br>
             <input type="text" name="sender" id="sender" required>
         </div>
 
@@ -17,7 +17,7 @@
         </div>
 
         <div>
-            <label for="message">Message</label><br>
+            <label for="message">Mensaje</label><br>
             <textarea name="message" id="message" required></textarea>
         </div>
 

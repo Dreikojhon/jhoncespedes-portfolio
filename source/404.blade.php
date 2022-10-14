@@ -9,5 +9,6 @@ permalink: 404.html
 @section('content')
     <h1>404 Error</h1>
 
-    <p>The page you were trying to access could not be found.</p>
+    <p>La página a la que se intenta ingresar no ha sido encontrada</p>
+    <p>Jhon Céspedes</p>
 @endsection

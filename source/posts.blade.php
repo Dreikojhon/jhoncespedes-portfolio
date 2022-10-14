@@ -3,7 +3,7 @@
 @section('title', 'Posts')
 
 @section('content')
-    <h1>Posts</h1>
+    <h1>Artículo</h1>
 
     <ul>
         @forelse ($posts->sortBy('title') as $post)
@@ -12,7 +12,7 @@
                 <small>{{ $post->prettyDate() }}</small>
             </li>
         @empty
-            <p>No posts to show.</p>
+            <p>No hay posts para mostrar.</p>
         @endforelse
     </ul>
 @endsection

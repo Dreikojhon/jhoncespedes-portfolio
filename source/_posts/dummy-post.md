@@ -7,6 +7,7 @@ tags:
   - php
   - laravel
 image: https://res.cloudinary.com/artisanstatic/sample.jpg
+comments: false
 ---
 ## Heading 2
 

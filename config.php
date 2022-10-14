@@ -4,25 +4,25 @@ return [
     'production' => false,
     'baseUrl' => 'https://artisanstatic.netlify.app',
     'site' => [
-        'title' => 'My Jigsaw Blog',
+        'title' => 'Jhon Céspedes - Blog',
         'description' => 'Personal blog of John Doe.',
         'image' => 'default-share.png',
     ],
     'owner' => [
-        'name' => 'John Doe',
+        'name' => 'Jhon Céspedes',
     ],
     'links' => [
-        'twitter' => 'https://twitter.com/johndoe',
+        'linkedin' => 'https://twitter.com/johndoe',
         'github' => 'https://github.com/johndoe',
     ],
     'services' => [
         'cmsVersion' => '~2.10',
-        'analytics' => 'UA-XXXXX-Y',
+        'analytics' => '337400133',
         'disqus' => 'artisanstatic',
-        'formcarry' => 'XXXXXXXXXXXX',
+        'formcarry' => 'ZpZwhXXqr',
         'cloudinary' => [
-            'cloudName' => 'artisanstatic',
-            'apiKey' => '365895137117119',
+            'cloudName' => 'dzgazernc',
+            'apiKey' => '749399482711273',
         ],
     ],
     'collections' => [
